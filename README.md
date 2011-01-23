@@ -1,0 +1,1 @@
+a bukkit plugin that uses upnp to forward ports automatically for minecraft servers that running locally. this include the configured minecraft server port, webbukkit port, and ports for other plugins that will support n00bbukkit. probably it will also feature a dynamic dns client. so this will make life easier for niewbies.
